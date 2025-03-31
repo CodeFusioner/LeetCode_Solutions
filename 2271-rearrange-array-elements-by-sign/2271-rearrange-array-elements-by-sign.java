@@ -1,25 +1,16 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        List<Integer> lneg = new ArrayList<>();
-        List<Integer> lpos = new ArrayList<>();
-        for(int i : nums){
-            if(i<0){
-                lneg.add(i);
+        int n = nums.length,negindex=1,posindex=0;
+        int[] res=new int[n];
+        for(int num : nums){
+            if(num>0){
+                res[posindex]=num;
+                posindex+=2;
             }else{
-                lpos.add(i);
+                res[negindex]=num;
+                negindex+=2;
             }
         }
-        int n = 0;
-        int p = 0;
-        for(int i=0;i<nums.length;i++){
-            if(i%2==0){
-                nums[i] = lpos.get(p);
-                p++;
-            }else{
-                nums[i] = lneg.get(n);
-                n++;
-            }
-        }
-        return nums;
+        return res;
     }
 }

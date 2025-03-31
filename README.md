@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |

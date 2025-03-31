@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -60,5 +62,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

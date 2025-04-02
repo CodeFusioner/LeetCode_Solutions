@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -129,4 +130,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

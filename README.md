@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 | [0018-4sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -110,4 +112,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->

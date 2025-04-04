@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |

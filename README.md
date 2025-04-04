@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -123,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |

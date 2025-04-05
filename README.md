@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0015-3sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |

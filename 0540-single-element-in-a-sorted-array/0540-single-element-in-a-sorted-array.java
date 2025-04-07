@@ -11,7 +11,7 @@ class Solution {
             if (nums[mid] == nums[mid + 1]) {
                 low = mid + 2; // Move right
             } else {
-                high = mid; // Move left
+                high = mid - 1; // Move left
             }
         }
         

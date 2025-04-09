@@ -293,11 +293,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
@@ -307,5 +309,6 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->

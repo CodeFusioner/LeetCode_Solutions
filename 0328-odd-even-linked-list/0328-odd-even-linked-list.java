@@ -35,7 +35,5 @@ class Solution {
             even = even.next;
         }
         return list.next;
-
-       
     }
 }

@@ -96,6 +96,7 @@
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0812-rotate-string) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |

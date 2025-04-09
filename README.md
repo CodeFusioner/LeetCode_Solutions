@@ -289,4 +289,20 @@
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

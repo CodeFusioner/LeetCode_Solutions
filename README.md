@@ -40,6 +40,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -65,6 +66,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -195,6 +198,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -289,6 +293,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |

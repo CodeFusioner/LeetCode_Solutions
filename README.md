@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -176,6 +178,7 @@
 | [0242-valid-anagram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Divide and Conquer
 |  |
@@ -235,6 +238,7 @@
 | [0134-gas-station](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Database

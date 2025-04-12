@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,11 +342,13 @@
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

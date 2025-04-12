@@ -41,6 +41,7 @@
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |

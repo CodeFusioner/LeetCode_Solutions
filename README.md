@@ -101,6 +101,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |

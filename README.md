@@ -357,6 +357,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |

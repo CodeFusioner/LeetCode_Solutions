@@ -242,6 +242,7 @@
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -320,6 +321,7 @@
 | [0022-generate-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -350,6 +352,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -360,6 +363,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -375,6 +379,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |

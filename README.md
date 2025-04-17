@@ -368,6 +368,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -385,6 +386,7 @@
 | [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -395,6 +397,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -414,6 +417,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
@@ -423,6 +427,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Quickselect
 |  |
 | ------- |

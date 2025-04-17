@@ -163,6 +163,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0078-subsets](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
@@ -358,6 +360,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -416,6 +419,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0404-sum-of-left-leaves) |

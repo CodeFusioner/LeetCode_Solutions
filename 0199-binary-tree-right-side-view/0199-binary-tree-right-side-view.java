@@ -14,22 +14,21 @@
  * }
  */
 class Solution {
-    int visited = -1;
+    int visited  = -1;
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        rightview(root , 0 , ans);
-        return ans;
+        List<Integer> ll = new ArrayList<>();
+        view(root,0,ll);
+        return ll;
     }
-    public void rightview(TreeNode root , int curr , List<Integer> ans){
+    public void view(TreeNode root, int curr, List<Integer>ll){
         if(root == null){
             return;
         }
-        if(curr > visited ){
-            ans.add(root.val);
-                visited++;
+        if(curr > visited){
+            ll.add(root.val);
+            visited++;
         }
-        rightview(root.right , curr+1 , ans);
-        rightview(root.left , curr+1 , ans);
-
+        view(root.right,curr+1,ll);
+        view(root.left,curr+1,ll);
     }
 }

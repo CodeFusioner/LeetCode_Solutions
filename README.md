@@ -372,6 +372,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -393,6 +394,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -428,6 +430,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |

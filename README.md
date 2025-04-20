@@ -209,6 +209,7 @@
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Database
@@ -389,6 +391,7 @@
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -420,6 +423,7 @@
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,6 +478,7 @@
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -485,6 +490,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |

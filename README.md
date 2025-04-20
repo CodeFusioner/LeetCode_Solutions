@@ -392,6 +392,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -479,6 +482,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

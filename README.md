@@ -394,6 +394,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -427,6 +428,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -485,6 +487,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |

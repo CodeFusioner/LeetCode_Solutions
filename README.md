@@ -39,6 +39,7 @@
 | [0455-assign-cookies](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
@@ -231,6 +232,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find

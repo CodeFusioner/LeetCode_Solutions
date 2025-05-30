@@ -90,6 +90,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Greedy
 |  |
 | ------- |

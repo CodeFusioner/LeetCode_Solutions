@@ -43,6 +43,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0697-degree-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
@@ -82,6 +83,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |

@@ -64,6 +64,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |

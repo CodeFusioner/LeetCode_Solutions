@@ -123,6 +123,7 @@
 | [0009-palindrome-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -149,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -576,4 +578,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

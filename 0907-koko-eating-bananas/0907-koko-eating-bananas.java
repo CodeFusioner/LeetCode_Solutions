@@ -5,7 +5,7 @@ class Solution {
         while (low < high) {
             int mid = low + (high - low) / 2;
             if (canEatAll(piles, mid, h)) {
-                high = mid;
+                high = mid; // move left side
             } else {
                 low = mid + 1;
             }

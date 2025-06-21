@@ -321,6 +321,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0577-employee-bonus) |

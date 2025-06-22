@@ -10,24 +10,27 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        Stack<ListNode> st = new Stack<ListNode>();
-        ListNode dummy = new ListNode();
-        ListNode temp = dummy;
-        ListNode curr = head;
-        while(curr!=null){
-            st.push(curr);
-            curr = curr.next;
+        ListNode dummy = new ListNode(100);
+        ListNode curr = dummy;
+        ListNode temp = head;
+        Stack<Integer> st = new Stack<>();
+        while(temp!=null){
+            st.push(temp.val);
             if(st.size() == k){
                 while(!st.isEmpty()){
-                    temp.next = st.pop();
-                    temp = temp.next;
+                    curr.next = new ListNode(st.pop());
+                    curr = curr.next;
                 }
-                 head = curr;
             }
+            temp=temp.next;
         }
-        temp.next = null;
-        if(st.size()>0){
-            temp.next = head;
+        Stack<Integer> st1 = new Stack<>();
+        while(!st.isEmpty()){
+            st1.push(st.pop());
+        }
+        while(!st1.isEmpty()){
+            curr.next = new ListNode(st1.pop());
+            curr = curr.next;
         }
         return dummy.next;
     }

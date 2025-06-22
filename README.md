@@ -65,6 +65,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -390,6 +393,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |

@@ -1,15 +1,17 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        Arrays.sort(letters);
-        int idx = 0;
-        for(int i=0;i<letters.length;i++){
-            char ch = letters[i];
-            if(ch > target){
-                idx = i;
-                break;
+        int low = 0;
+        int high = letters.length-1;
+        char ans = letters[0];
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            if(letters[mid] > target){
+                ans = letters[mid];
+                high = mid-1;
+            }else{
+                low = mid+1;
             }
         }
-        System.out.println(letters);
-        return letters[idx];
+        return ans;
     }
 }

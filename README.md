@@ -50,6 +50,7 @@
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0697-degree-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -204,6 +205,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |

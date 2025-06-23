@@ -61,6 +61,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -152,6 +153,7 @@
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |

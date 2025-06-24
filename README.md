@@ -71,6 +71,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [0455-assign-cookies](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |

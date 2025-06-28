@@ -166,6 +166,7 @@
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -305,6 +306,7 @@
 | [0014-longest-common-prefix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |

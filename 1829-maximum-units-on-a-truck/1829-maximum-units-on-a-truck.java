@@ -8,7 +8,7 @@ class Solution {
                 truckSize -= arr[0];
             }else{
                 unit += truckSize * arr[1];
-                truckSize = 0;
+                break;
             }
         }
         return unit;

@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0078-subsets) |
@@ -171,6 +172,7 @@
 | [0022-generate-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -346,6 +348,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |

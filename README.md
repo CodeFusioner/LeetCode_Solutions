@@ -58,6 +58,7 @@
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -202,6 +203,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -329,6 +331,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -352,6 +355,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
+| [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |

@@ -67,6 +67,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -262,6 +263,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
@@ -361,6 +363,7 @@
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -435,6 +438,7 @@
 | [0347-top-k-frequent-elements](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |

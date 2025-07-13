@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -166,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
@@ -300,6 +302,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |

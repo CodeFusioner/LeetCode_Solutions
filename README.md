@@ -61,6 +61,7 @@
 | [0907-koko-eating-bananas](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
+| [0985-bag-of-tokens](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -210,6 +211,7 @@
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
+| [0985-bag-of-tokens](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0985-bag-of-tokens) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -265,6 +267,7 @@
 | [0455-assign-cookies](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0985-bag-of-tokens) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -365,6 +368,7 @@
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-hand-of-straights](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0876-hand-of-straights) |
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
+| [0985-bag-of-tokens](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

@@ -150,6 +150,7 @@
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [1033-broken-calculator](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -376,6 +377,7 @@
 | [0917-boats-to-save-people](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1033-broken-calculator) |
 | [1285-balance-a-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

@@ -358,6 +358,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
+| [3396-valid-word](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |

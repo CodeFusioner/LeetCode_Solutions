@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |

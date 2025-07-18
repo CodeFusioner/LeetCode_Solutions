@@ -10,21 +10,22 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        // simple reverse secondHalf then compare element
         ListNode slow = head;
         ListNode fast = head;
-        while(fast != null && fast.next!=null){
+        while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
-        } 
+        }
         ListNode secondHalf = reverse(slow);
         ListNode curr = head;
         ListNode rev = secondHalf;
-        while(rev != null ){
-            if(rev.val != curr.val){
+        while(rev != null){
+            if(curr.val != rev.val){
                 return false;
             }
-            rev = rev.next;
             curr = curr.next;
+            rev = rev.next;
         }
         return true;
     }

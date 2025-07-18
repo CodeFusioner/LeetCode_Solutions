@@ -131,6 +131,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -203,6 +204,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |

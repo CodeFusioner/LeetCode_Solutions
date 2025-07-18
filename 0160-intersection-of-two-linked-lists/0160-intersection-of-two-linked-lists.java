@@ -11,36 +11,39 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int size1 = 0, size2 = 0;
-        ListNode head1 = headA, head2 = headB;
-
-        while (head1 != null) {
-            size1++;
-            head1 = head1.next;
+        ListNode currA = headA;
+        ListNode currB = headB;
+        int lenA = 0;
+        int lenB = 0;
+        while(currA != null){
+            lenA++;
+            currA = currA.next;
         }
-
-        while (head2 != null) {
-            size2++;
-            head2 = head2.next;
+        while(currB != null){
+            lenB++;
+            currB = currB.next;
         }
-
-        head1 = headA;
-        head2 = headB;
-
-        int diff = Math.abs(size1 - size2);
-
-        if (size1 > size2) {
-            for (int i = 0; i < diff; i++) head1 = head1.next;
-        } else {
-            for (int i = 0; i < diff; i++) head2 = head2.next;
+        int extra = 0;
+        if(lenA < lenB){
+            extra = lenB - lenA;
+        }else{
+            extra = lenA - lenB;
         }
-
-        while (head1 != null && head2 != null) {
-            if (head1 == head2) return head1;
-            head1 = head1.next;
-            head2 = head2.next;
+        currA = headA;
+        currB = headB;
+        if(lenA < lenB){
+            for(int i=0;i<extra;i++){
+                currB = currB.next;
+            }
+        }else{
+            for(int i=0;i<extra;i++){
+                currA = currA.next;
+            }
         }
-
-        return null;
+        while(currA != currB){
+            currA = currA.next;
+            currB = currB.next;
+        }
+        return currA;
     }
 }

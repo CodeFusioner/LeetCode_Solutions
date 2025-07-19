@@ -363,6 +363,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3396-valid-word](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3396-valid-word) |

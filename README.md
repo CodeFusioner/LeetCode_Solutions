@@ -351,6 +351,7 @@
 | [0242-valid-anagram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -378,6 +379,7 @@
 | [0134-gas-station](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -449,6 +451,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -684,6 +687,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [2227-sum-of-subarray-ranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |

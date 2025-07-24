@@ -100,6 +100,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -138,6 +139,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -675,6 +677,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -704,4 +707,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

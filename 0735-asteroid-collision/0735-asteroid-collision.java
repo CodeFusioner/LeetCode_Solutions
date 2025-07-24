@@ -15,16 +15,10 @@ class Solution {
                 }
             }
         }
-        int [] arr = new int[st.size()];
-        int j = 0;
-        Stack<Integer> st2 = new Stack<>();
-        while(!st.isEmpty()){
-            st2.push(st.pop());
+        int [] ans = new int[st.size()];
+        for(int i = 0;i<st.size();i++){
+            ans[i] = st.get(i);
         }
-        while(!st2.isEmpty()){
-            arr[j++] = st2.pop();
-        }
-
-        return arr;
+        return ans;
     }
 }

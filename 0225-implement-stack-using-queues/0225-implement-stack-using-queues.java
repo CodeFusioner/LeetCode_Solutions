@@ -1,4 +1,5 @@
 class MyStack {
+    // pop efficient
     Queue<Integer> q1 = new LinkedList<>();
     Queue<Integer> q2 = new LinkedList<>();
 
@@ -7,30 +8,21 @@ class MyStack {
     }
     
     public void push(int x) {
-        q1.add(x);
+        q2.add(x);
+        while(!q1.isEmpty()){
+            q2.add(q1.poll());
+        }
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
     }
     
     public int pop() {
-        while(q1.size() > 1){
-            q2.add(q1.poll());
-        }
-        int top = q1.poll();
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-        return top;
+       return q1.poll();
     }
     
     public int top() {
-        while(q1.size() > 1){
-            q2.add(q1.poll());
-        }
-        int top = q1.peek();
-        q2.add(q1.poll());
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-        return top;
+        return q1.peek();
     }
     
     public boolean empty() {

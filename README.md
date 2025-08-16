@@ -373,6 +373,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3396-valid-word](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3396-valid-word) |

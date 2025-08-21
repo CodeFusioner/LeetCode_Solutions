@@ -364,6 +364,7 @@
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0979-di-string-match) |
@@ -481,6 +482,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |

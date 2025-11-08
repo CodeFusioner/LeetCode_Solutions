@@ -91,6 +91,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2536-determine-if-two-events-have-conflict) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -153,6 +155,7 @@
 | [0328-odd-even-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |

@@ -167,6 +167,7 @@
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1033-broken-calculator](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
@@ -210,6 +211,7 @@
 | [0152-maximum-product-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -522,6 +524,7 @@
 | [0078-subsets](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

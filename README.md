@@ -174,6 +174,7 @@
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1033-broken-calculator](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -388,6 +390,7 @@
 | [0394-decode-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |

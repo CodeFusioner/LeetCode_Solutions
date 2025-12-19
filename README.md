@@ -81,6 +81,7 @@
 | [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -288,6 +290,7 @@
 | [0136-single-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -339,6 +342,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3467-transform-array-by-parity](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
@@ -401,6 +405,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |

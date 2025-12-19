@@ -83,6 +83,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -340,6 +341,7 @@
 | [0054-spiral-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [1920-build-array-from-permutation](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |

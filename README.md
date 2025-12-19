@@ -78,6 +78,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -130,6 +131,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -173,6 +175,7 @@
 | [1033-broken-calculator](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -331,6 +334,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

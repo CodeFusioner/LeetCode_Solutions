@@ -97,6 +97,7 @@
 | [3467-transform-array-by-parity](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -352,6 +353,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3701-compute-alternating-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 ## Union Find
 |  |
 | ------- |

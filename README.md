@@ -98,6 +98,7 @@
 | [3467-transform-array-by-parity](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -140,6 +141,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3668-restore-finishing-order](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List

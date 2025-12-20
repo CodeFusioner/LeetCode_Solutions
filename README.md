@@ -187,6 +187,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |

@@ -232,6 +232,7 @@
 | [0118-pascals-triangle](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -602,6 +603,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -641,6 +643,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -699,6 +702,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |

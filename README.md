@@ -421,6 +421,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -530,6 +531,7 @@
 | [0654-maximum-binary-tree](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie

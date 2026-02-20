@@ -9,7 +9,12 @@ class Solution {
         
         List<Character> list = new ArrayList<>(map.keySet());
 
-        Collections.sort(list, (a,b) -> map.get(b) - map.get(a));
+        Collections.sort(list, (a,b) ->{
+            if(map.get(a) != map.get(b)){
+                return map.get(b) - map.get(a);
+            }
+            return a-b;
+        });
 
         StringBuilder sb = new StringBuilder();
         for(char ch : list){

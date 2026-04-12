@@ -121,6 +121,7 @@
 | [0146-lru-cache](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -183,6 +184,7 @@
 | [0066-plus-one](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -258,6 +260,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/CodeFusioner/LeetCode_Solutions/tree/master/0443-string-compression) |

@@ -1,14 +1,15 @@
 class Solution {
-    public boolean isPalindrome(int x) {
-        int rev=0;
-        int org=x;
-        while(x>0){
-            rev=rev*10+(x%10);
-            x=x/10;
+    public boolean isPalindrome(int s) {
+        String x = s + "";
+        int i = 0;
+        int j = x.length()-1;
+        while(i<=j){
+            if(x.charAt(i) != x.charAt(j)){
+                return false;
+            }
+            i++;
+            j--;
         }
-        if(rev==org){
-            return true;
-        }
-    return false;
+        return true;
     }
 }
